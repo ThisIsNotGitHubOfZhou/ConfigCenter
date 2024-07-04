@@ -8,5 +8,3 @@ configInfo:
   consulPort: 8500
   consulHost: "localhost"
   serviceName: "vote-http"
-  rabbitMQUrl: "amqp://thisiszhou:thisiszhou@9.135.95.71:5672"
-  grpcQueueName: "vote-svr"

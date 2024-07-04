@@ -1,0 +1,12 @@
+configInfo:
+  grpcAddr: "9.135.95.71:50051"
+  grpcAddrK8s: "10.99.211.178:80"
+  grpcAddrGobetween: "0.0.0.0:50051"
+  grpcSvcName: "vote-grpc"
+  servicePort: 50041
+  serviceHost: "10.76.143.36"
+  consulPort: 8500
+  consulHost: "localhost"
+  serviceName: "vote-http"
+  rabbitMQUrl: "amqp://thisiszhou:thisiszhou@9.135.95.71:5672"
+  grpcQueueName: "vote-svr"

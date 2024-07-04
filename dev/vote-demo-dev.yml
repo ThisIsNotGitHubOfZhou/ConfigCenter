@@ -8,4 +8,4 @@ configInfo:
   consulPort: 8500
   consulHost: "localhost"
   serviceName: "vote-http"
-  testConfig: "111"
+  testConfig: "hello"

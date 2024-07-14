@@ -6,7 +6,7 @@ configInfo:
   servicePort: 50041
   serviceHost: "10.76.143.36"
   consulPort: 8500
-  consulHost: "9.135.95.71"
+  consulHost: "localhost"
   serviceName: "vote-http"
   zipkinURL: "http://10.76.143.36:9411/api/v2/spans"
   testConfig: "hello"

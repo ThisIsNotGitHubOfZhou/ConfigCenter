@@ -8,4 +8,5 @@ configInfo:
   consulPort: 8500
   consulHost: "localhost"
   serviceName: "vote-http"
+  zipkinURL: "http://10.76.143.36:9411/api/v2/spans"
   testConfig: "hello"
